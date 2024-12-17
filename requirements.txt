@@ -2,3 +2,7 @@ pandas
 numpy
 matplotlib
 pyoperon
+scikit-learn
+sympy
+
+
